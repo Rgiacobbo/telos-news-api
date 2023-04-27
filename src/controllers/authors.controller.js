@@ -4,7 +4,7 @@ const { generateHash } = require("../utils/hashProvider");
 
 const authors = [
   {
-    id: "1",
+    id: "4af3cb53-c2bc-45b4-ad54-6c8578480918",
     name: "John Doe",
     biography: "Exemplo biogafico",
     email: "john.doe@example.com.br",
