@@ -122,4 +122,5 @@ module.exports = {
   create,
   update,
   remove,
+  authorDatabase: authors,
 };
