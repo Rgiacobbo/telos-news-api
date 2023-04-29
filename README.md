@@ -33,15 +33,15 @@ yarn dev
 
 A API de noticias tem como funcionalidades o cadastros de autoes e suas noticias.
 
-### Recursos disponiveis
+### 🔵 Recursos disponiveis
 
 /authors - obtem as informações dos autores.
 /news - obtem as informações das noticias.
 /authenticate - Faz a autenticação do autor.
 
-#### Parametros
+#### 🔹 Parametros
 
-##### Author
+##### 🔹 Author
 
 POST Author-Create: /authors  
 201 OK - O autor foi criado com sucesso.
@@ -62,7 +62,7 @@ DELETE Author-Delete: /authors/id
 SEM RETORNO - Foi deletedo com sucesso.
 400 Not Found - Autor não foi encontrado.
 
-##### News
+##### 🔹 News
 
 POST News-Create: /news  
 201 OK - A notica foi criada com sucesso.
@@ -95,7 +95,7 @@ DELETE News-Delete: /news/id
 SEM RETORNO - Foi deleteda com sucesso.
 400 Not Found - Noticia não foi encontrada.
 
-##### Authenticate
+##### 🔹 Authenticate
 
 POST Authenticate-Login: /authenticate
 200 OK - Autor foi autenticado com sucesso.
