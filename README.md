@@ -35,9 +35,9 @@ A API de noticias tem como funcionalidades o cadastros de autoes e suas noticias
 
 ### 🔵 Recursos disponiveis
 
-/authors - obtem as informações dos autores.
-/news - obtem as informações das noticias.
-/authenticate - Faz a autenticação do autor.
+    /authors - obtem as informações dos autores.
+    /news - obtem as informações das noticias.
+    /authenticate - Faz a autenticação do autor.
 
 #### 🔹 Parametros
 
